@@ -3,3 +3,4 @@
 # módosítás asztali gépről 
 # most siker? 
 # hibajegy leírás 
+ujra
